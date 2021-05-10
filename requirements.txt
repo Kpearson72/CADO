@@ -47,7 +47,7 @@ plotly==4.14.1
 
 
 python-dateutil==2.8.1
-python.app==2
+python==2
 
 
 requests==2.24.0
@@ -63,5 +63,4 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 
-wurlitzer @ file:///opt/concourse/worker/volumes/live/01a17f3d-eafe-4806-57a1-4b9ef5d1815f/volume/wurlitzer_1594753845129/work
-
+wurlitzer 
