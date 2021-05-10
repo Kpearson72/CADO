@@ -47,15 +47,14 @@ plotly==4.14.1
 
 
 python-dateutil==2.8.1
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
-python-language-server @ file:///opt/concourse/worker/volumes/live/5f0313b4-ff69-4d9d-5c31-e01b223dabd6/volume/python-language-server_1594161914367/work
 
 
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+
+requests 
 
 scikit-image==0.16.2
-scikit-learn @ file:///opt/concourse/worker/volumes/live/47a3ec7c-70dc-43c0-7317-def24a8afaf5/volume/scikit-learn_1592503037057/work
-scipy @ file:///opt/concourse/worker/volumes/live/7f5e51f8-abf3-4409-4c56-a4fb14cc9869/volume/scipy_1593104185999/work
+scikit-learn 
+scipy 
 seaborn==0.10.1
 
 soupsieve==2.0.1
