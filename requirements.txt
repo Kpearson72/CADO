@@ -14,7 +14,7 @@ click==7.1.2
 Flask==1.1.2
 
 
-gunicorn @ file:///Users/runner/miniforge3/conda-bld/gunicorn_1617043238748/work
+
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
