@@ -40,7 +40,6 @@ numpy==1.18.5
 pandas 
 
 
-pickleshare @ file:///opt/concourse/worker/volumes/live/93ec39d8-05bb-4f84-7efc-98735bc39b70/volume/pickleshare_1594384101884/work
 
 plotly==4.14.1
 
