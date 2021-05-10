@@ -21,7 +21,7 @@ HeapDict==1.0.1
 Jinja2==2.11.2
 
 json5==0.9.5
-jsonschema @ file:///opt/concourse/worker/volumes/live/143dedb7-a810-4064-6e47-436d4dbcc943/volume/jsonschema_1594363611216/work
+
 jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-console==6.1.0
