@@ -25,9 +25,8 @@ json5==0.9.5
 jupyter==1.0.0
 
 
-lxml @ file:///opt/concourse/worker/volumes/live/d42457f0-83be-4fb6-6c8d-8f9319a861b0/volume/lxml_1594826854945/work
-MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
-matplotlib @ file:///opt/concourse/worker/volumes/live/59859a4b-794b-4c9f-51fd-a0ac1d1ab595/volume/matplotlib-base_1592846058943/work
+
+
 
 
 
@@ -40,7 +39,7 @@ numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 olefile==0.46
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1594167385094/work
 packaging==20.4
-pandas @ file:///opt/concourse/worker/volumes/live/5ef6147e-ea92-446e-4065-0c8c7435293f/volume/pandas_1592841676717/work
+pandas 
 pandocfilters==1.4.2
 parso==0.7.0
 partd==1.1.0
